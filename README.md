@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm David T. Rodríguez 👋</h1>
-
 <p align="center">
   <strong>Senior Software Engineer</strong><br/>
   Full-Stack JavaScript / TypeScript · EdTech · E-commerce
