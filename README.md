@@ -12,15 +12,15 @@
 
 ---
 
-### 👨‍💻 About me
+### About me
 
-Senior Software Engineer with **12+ years of experience building web products**, working end-to-end across frontend, backend, integrations, testing and delivery.
+I'm a Senior Software Engineer with **12+ years of experience building web products**. I work across frontend, backend, integrations, testing and delivery.
 
-My recent work is focused on **React / Next.js, Node.js / Express and TypeScript**, with strong experience in **EdTech SaaS, LMS interoperability, authentication and REST APIs**. I also have a commercial background in **e-commerce** and earlier PHP-based web platforms.
+These days I mainly work with **React, Next.js, Node.js, Express and TypeScript**. A big part of my recent experience is in **EdTech SaaS**, especially LMS integrations, authentication and APIs. I also have several years of commercial experience in **e-commerce** and PHP-based web platforms.
 
-Most of my day-to-day professional work lives in private company repositories, so this profile is a selective snapshot of side projects, experiments and older public work.
+Most of my recent professional work is in private company repositories, so the public repos here are mostly side projects, experiments and some older work.
 
-### 🧰 Tech stack
+### Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mysql,vue,sass,docker,kubernetes,aws,git" alt="Core technologies" />
@@ -41,19 +41,19 @@ Jest · React Testing Library · Playwright · CI/CD · Docker · Kubernetes · 
 **Additional experience**  
 Ionic · React Native · PHP · Magento · WordPress · Zend · jQuery
 
-### 🤖 AI-assisted engineering
+### AI-assisted engineering
 
-I use **Codex / OpenAI tooling** as part of practical engineering workflows for code exploration, debugging, refactoring, implementation and rapid prototyping — with the same emphasis on maintainability, testing and understanding the code being shipped.
+I use **AI-assisted development workflows** with tools such as **Codex** for code exploration, debugging, refactoring, implementation and prototyping. I still treat testing, maintainability and understanding the code as part of the job, regardless of the tools being used.
 
-### 🎯 What I enjoy working on
+### Areas I work in
 
-- Full-stack product development with JavaScript / TypeScript
-- Complex integrations and API design
-- LMS / EdTech interoperability
-- Authentication and authorization flows
-- Content-rich web applications
-- E-commerce platforms
-- Developer tooling and pragmatic AI-assisted workflows
+- Full-stack JavaScript and TypeScript
+- API design and integrations
+- LMS and EdTech interoperability
+- Authentication and authorization
+- Content-heavy web applications
+- E-commerce
+- Developer tooling and AI-assisted development
 
 ---
 
